@@ -1,0 +1,3 @@
+Name: Nigar Bizanjo
+Student ID: 123456
+Bio: I am a student learning software construction.
